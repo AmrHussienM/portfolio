@@ -1,4 +1,4 @@
-# Food Recipe App
+# My Portfolio App
 
 App used to find meals for your ingredients by searching the user.
 
